@@ -35,6 +35,72 @@ const ProjectPage = () => {
               </Link>
             </p>
           </div>
+          
+         {/*<div className="bg-[#1b1422] hover:bg-[#422d55] py-10 rounded-xl overflow-hidden shadow-lg">
+            <h2 className="font-bold text-3xl text-white uppercase mb-8 underline">Portfolio Website</h2>
+            <p className="text-lg text-white">using Next.js, Tailwind CSS and Typescript
+              <Link href="https://portfolio-website-pearl-beta.vercel.app/">
+                <span className="text-white hover:underline block mt-8 font-semibold text-xl cursor-pointer">
+                  CLICK HERE
+                </span>
+              </Link>
+            </p>
+          </div>*/}
+
+          <div className="bg-[#1b1422] hover:bg-[#422d55] py-10 rounded-xl overflow-hidden shadow-lg">
+            <h2 className="font-bold text-3xl text-white uppercase mb-8 underline">Blog Website</h2>
+            <p className="text-lg text-white">using Next.js, Tailwind CSS and Typescript
+              <Link href="https://blog-website-jade-tau.vercel.app/">
+                <span className="text-white hover:underline block mt-8 font-semibold text-xl cursor-pointer">
+                  CLICK HERE
+                </span>
+              </Link>
+            </p>
+          </div>
+
+          <div className="bg-[#1b1422] hover:bg-[#422d55] py-10 rounded-xl overflow-hidden shadow-lg">
+            <h2 className="font-bold text-3xl text-white uppercase mb-8 underline"> Static-Interactive-Resume</h2>
+            <p className="text-lg text-white">using HTML, CSS and Typescript
+              <Link href="https://milestone-01-static-interactive-res.vercel.app/">
+                <span className="text-white hover:underline block mt-8 font-semibold text-xl cursor-pointer">
+                  CLICK HERE
+                </span>
+              </Link>
+            </p>
+          </div>
+
+          <div className="bg-[#1b1422] hover:bg-[#422d55] py-10 rounded-xl overflow-hidden shadow-lg">
+            <h2 className="font-bold text-3xl text-white uppercase mb-8 underline">Resume Builder</h2>
+            <p className="text-lg text-white">using HTML, CSS and Typescript
+              <Link href="https://milestone-05-resume-builder.vercel.app/">
+                <span className="text-white hover:underline block mt-8 font-semibold text-xl cursor-pointer">
+                  CLICK HERE
+                </span>
+              </Link>
+            </p>
+          </div>
+
+          <div className="bg-[#1b1422] hover:bg-[#422d55] py-10 rounded-xl overflow-hidden shadow-lg">
+            <h2 className="font-bold text-3xl text-white uppercase mb-8 underline">Spotify Clone</h2>
+            <p className="text-lg text-white">using HTML and CSS
+              <Link href="https://spotify-website-azure.vercel.app/">
+                <span className="text-white hover:underline block mt-8 font-semibold text-xl cursor-pointer">
+                  CLICK HERE
+                </span>
+              </Link>
+            </p>
+          </div>
+
+          <div className="bg-[#1b1422] hover:bg-[#422d55] py-10 rounded-xl overflow-hidden shadow-lg">
+            <h2 className="font-bold text-3xl text-white uppercase mb-8 underline">Netflix Clone</h2>
+            <p className="text-lg text-white">using HTML and CSS
+              <Link href="https://stream-demo-clone.vercel.app/">
+                <span className="text-white hover:underline block mt-8 font-semibold text-xl cursor-pointer">
+                  CLICK HERE
+                </span>
+              </Link>
+            </p>
+          </div>
 
           <div className="bg-[#1b1422] hover:bg-[#422d55] py-10 rounded-xl overflow-hidden shadow-lg">
             <h2 className="font-bold text-3xl text-white uppercase mb-8 underline">Growth Mindset</h2>
@@ -57,7 +123,6 @@ const ProjectPage = () => {
               </Link>
             </p>
           </div>
-
           <div className="bg-[#1b1422] hover:bg-[#422d55] py-10 rounded-xl overflow-hidden shadow-lg">
             <h2 className="font-bold text-3xl text-white uppercase mb-8 underline">Password Strenght Checker</h2>
             <p className="text-lg text-white">using Python, Streamlit
@@ -81,61 +146,6 @@ const ProjectPage = () => {
           </div>
 
 
-          <div className="bg-[#1b1422] hover:bg-[#422d55] py-10 rounded-xl overflow-hidden shadow-lg">
-            <h2 className="font-bold text-3xl text-white uppercase mb-8 underline">Portfolio Website</h2>
-            <p className="text-lg text-white">using Next.js, Tailwind CSS and Typescript
-              <Link href="https://portfolio-website-pearl-beta.vercel.app/">
-                <span className="text-white hover:underline block mt-8 font-semibold text-xl cursor-pointer">
-                  CLICK HERE
-                </span>
-              </Link>
-            </p>
-          </div>
-
-
-          <div className="bg-[#1b1422] hover:bg-[#422d55] py-10 rounded-xl overflow-hidden shadow-lg">
-            <h2 className="font-bold text-3xl text-white uppercase mb-8 underline">Blog Website</h2>
-            <p className="text-lg text-white">using Next.js, Tailwind CSS and Typescript
-              <Link href="https://blog-website-jade-tau.vercel.app/">
-                <span className="text-white hover:underline block mt-8 font-semibold text-xl cursor-pointer">
-                  CLICK HERE
-                </span>
-              </Link>
-            </p>
-          </div>
-
-          <div className="bg-[#1b1422] hover:bg-[#422d55] py-10 rounded-xl overflow-hidden shadow-lg">
-            <h2 className="font-bold text-3xl text-white uppercase mb-8 underline">Resume Builder</h2>
-            <p className="text-lg text-white">using HTML, CSS and Typescript
-              <Link href="/your-target-page">
-                <span className="text-white hover:underline block mt-8 font-semibold text-xl cursor-pointer">
-                  CLICK HERE
-                </span>
-              </Link>
-            </p>
-          </div>
-
-          <div className="bg-[#1b1422] hover:bg-[#422d55] py-10 rounded-xl overflow-hidden shadow-lg">
-            <h2 className="font-bold text-3xl text-white uppercase mb-8 underline">Spotify Clone</h2>
-            <p className="text-lg text-white">using HTML, CSS and JavaScript
-              <Link href="https://spotify-website-azure.vercel.app/">
-                <span className="text-white hover:underline block mt-8 font-semibold text-xl cursor-pointer">
-                  CLICK HERE
-                </span>
-              </Link>
-            </p>
-          </div>
-
-          <div className="bg-[#1b1422] hover:bg-[#422d55] py-10 rounded-xl overflow-hidden shadow-lg">
-            <h2 className="font-bold text-3xl text-white uppercase mb-8 underline">Netflix Clone</h2>
-            <p className="text-lg text-white">using HTML and CSS
-              <Link href="https://netflix-website-kappa.vercel.app/">
-                <span className="text-white hover:underline block mt-8 font-semibold text-xl cursor-pointer">
-                  CLICK HERE
-                </span>
-              </Link>
-            </p>
-          </div>
 
         </div>
       </section>
@@ -143,12 +153,12 @@ const ProjectPage = () => {
       {/* Call to Action - Live Demo & GitHub Section */}
       <section className="py-20 text-center bg-gradient-to-r from-yellow-500 to-gray-600 ">
         <h3 className="text-4xl font-extrabold text-black uppercase">Explore Project Links</h3>
-        <div className="mt-6 flex justify-center gap-8">
+        <div className="mt-6 flex flex-col sm:flex-row justify-center gap-4 sm:gap-8">
           <Link
             href="https://github.com/IshaKhan06"
             target="_blank"
             rel="link"
-            className="inline-block px-8 py-3 bg-[#1b1422] hover:bg-[#422d55] text-white rounded-lg transform hover:scale-105 transition-all duration-300"
+            className="inline-block px-8 py-3 bg-[#1b1422] hover:bg-[#422d55] text-white rounded-lg transform hover:scale-105 transition-all duration-300 w-full sm:w-auto max-w-xs mx-auto sm:mx-0"
           >
             View on GitHub
           </Link>
@@ -157,7 +167,7 @@ const ProjectPage = () => {
             href="https://vercel.com/isha-khans-projects"
             target="_blank"
             rel="link"
-            className="inline-block px-8 py-3 bg-[#1b1422] hover:bg-[#422d55] text-white rounded-lg shadow-lg  transform hover:scale-105 transition-all duration-300"
+            className="inline-block px-8 py-3 bg-[#1b1422] hover:bg-[#422d55] text-white rounded-lg transform hover:scale-105 transition-all duration-300 w-full sm:w-auto max-w-xs mx-auto sm:mx-0"
           >
             View Live Vercel
           </Link>
@@ -167,7 +177,7 @@ const ProjectPage = () => {
             href="https://share.streamlit.io/?utm_source=streamlit&utm_medium=referral&utm_campaign=main&utm_content=-ss-streamlit-io-topright"
             target="_blank"
             rel="link"
-            className="inline-block px-8 py-3 bg-[#1b1422] hover:bg-[#422d55] text-white rounded-lg shadow-lg  transform hover:scale-105 transition-all duration-300"
+            className="inline-block px-8 py-3 bg-[#1b1422] hover:bg-[#422d55] text-white rounded-lg transform hover:scale-105 transition-all duration-300 w-full sm:w-auto max-w-xs mx-auto sm:mx-0"
           >
             View on Streamlit
           </Link>
