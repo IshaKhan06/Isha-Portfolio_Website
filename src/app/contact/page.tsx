@@ -11,8 +11,9 @@ export default function Contact() {
       <section className="flex flex-col items-center justify-center text-center py-20 px-6 bg-gradient-to-r from-yellow-500 to-gray-600 text-gray-900 flex-grow">
         <h2 className="text-5xl font-extrabold mb-6 text-black uppercase">Get in Touch</h2>
         <p className="text-xl max-w-2xl mb-8 leading-relaxed text-black">
-          Have a question or want to work together? Fill out the form below, and I'll get back to you as soon as possible.
+          Have a question or want to work together? Fill out the form below, and I&apos;ll get back to you as soon as possible.
         </p>
+
 
         <form className="bg-[#1b1422] shadow-lg rounded-lg p-8 max-w-md w-full">
           <div className="mb-4">
@@ -33,7 +34,7 @@ export default function Contact() {
         </form>
       </section>
 
-      <Footer/>
+      <Footer />
 
     </div>
   );
