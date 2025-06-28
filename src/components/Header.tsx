@@ -7,7 +7,7 @@ export const Header = () => {
       <nav className="shadow-md py-4 fixed top-0 w-full z-10 bg-[#2e213b]">
   <div className="max-w-6xl mx-auto px-4 flex flex-col sm:flex-row sm:items-center sm:justify-between">
     <h1 className="text-3xl font-semibold text-white mb-4 sm:mb-0">
-      Isha's Portfolio
+       Isha&apos;s Portfolio
     </h1>
 
     <div className="flex flex-row text-white font-bold space-x-6">
